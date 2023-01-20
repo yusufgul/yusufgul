@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf
 - 👀 I am a software engineer whose motivations are driven by curiosity. I entered the software field with embedded software and now, I continue with web design.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 - 📫 How to reach me ... e-mail: yuusuufguul@gmail.com
 
 <!---
